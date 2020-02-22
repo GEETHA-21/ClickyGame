@@ -22,7 +22,7 @@
     {
         "id": 5,
         "name": "pawprint",
-        "image": "../imgs/pawprint.png"
+        "image": "../imgs/pawprint.jpg"
     },
     {
         "id": 6,
@@ -42,21 +42,11 @@
     {
         "id": 9,
         "name": "skype",
-        "image": "../imgs/skype.jpg"
+        "image": "../imgs/skye.jpg"
     },
     {
         "id": 10,
         "name": "tracker",
         "image": "../imgs/tracker.jpg"
-    },
-    {
-        "id": 11,
-        "name": "zuma",
-        "image": "../imgs/sansa.jpg"
-    },
-    {
-        "id": 12,
-        "name": "Sam",
-        "image": "../imgs/sam.jpg"
     }
 ]
