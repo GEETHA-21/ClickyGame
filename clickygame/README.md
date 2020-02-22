@@ -8,7 +8,7 @@ EACH click triggers the board of cards to reshuffle, thus, you cannot simply cli
 
 COUNTERS displayed to the top right and left of the board keep track of your current as well as top score.
 
-CLICK your way to the sit the Iron Throne!
+
 
 Summary
 
