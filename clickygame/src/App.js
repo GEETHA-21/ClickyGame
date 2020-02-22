@@ -67,6 +67,7 @@ class App extends Component {
       this.setState(this.state = newState)
     }
   }
+
   render() {
     return (
       <div>
