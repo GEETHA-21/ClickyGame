@@ -13,3 +13,5 @@ COUNTERS displayed to the top right and left of the board keep track of your cur
 Summary
 
 CLICKY-GAME is built with React.js. Thus, the application is component based, able to keeps track of change events using state, and updates to the page render dynamically and without page refresh.
+
+## [PLAY CICKY-GAME](https://clickygame-geetha.herokuapp.com/) 
